@@ -1,0 +1,7 @@
+C:\Users\HI\Desktop\repos\DMart\out\DMart.exe
+C:\Users\HI\Desktop\repos\DMart\out\appsettings.Development.json
+C:\Users\HI\Desktop\repos\DMart\out\appsettings.json
+C:\Users\HI\Desktop\repos\DMart\out\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\out\DMart.deps.json
+C:\Users\HI\Desktop\repos\DMart\out\DMart.runtimeconfig.json
+C:\Users\HI\Desktop\repos\DMart\out\DMart.pdb

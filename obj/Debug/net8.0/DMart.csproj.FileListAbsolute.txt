@@ -28,3 +28,34 @@ C:\Users\ADMIN\OneDrive\Desktop\Batch 7\DMart\obj\Debug\net8.0\refint\DMart.dll
 C:\Users\ADMIN\OneDrive\Desktop\Batch 7\DMart\obj\Debug\net8.0\DMart.pdb
 C:\Users\ADMIN\OneDrive\Desktop\Batch 7\DMart\obj\Debug\net8.0\DMart.genruntimeconfig.cache
 C:\Users\ADMIN\OneDrive\Desktop\Batch 7\DMart\obj\Debug\net8.0\ref\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\appsettings.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.staticwebassets.runtime.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.exe
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.deps.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.runtimeconfig.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\DMart.pdb
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.AssemblyInfoInputs.cache
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.AssemblyInfo.cs
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.csproj.CoreCompileInputs.cache
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.RazorAssemblyInfo.cache
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.RazorAssemblyInfo.cs
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.sourcelink.json
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets\msbuild.DMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets\msbuild.build.DMart.props
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DMart.props
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DMart.props
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\scopedcss\bundle\DMart.styles.css
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\scopedcss\projectbundle\DMart.bundle.scp.css
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\refint\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.pdb
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.genruntimeconfig.cache
+C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\ref\DMart.dll
