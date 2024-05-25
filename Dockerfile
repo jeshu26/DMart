@@ -21,6 +21,8 @@ WORKDIR /app
 # Copy the build output from the build stage to the runtime stage
 COPY --from=build /app/out .
 
+# Expose port 80
+EXPOSE 80
 
 # Specify the entry point for the application
 ENTRYPOINT ["dotnet", "DMart.dll"]
