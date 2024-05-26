@@ -59,3 +59,8 @@ C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\refint\DMart.dll
 C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.pdb
 C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\DMart.genruntimeconfig.cache
 C:\Users\HI\Desktop\repos\DMart\obj\Debug\net8.0\ref\DMart.dll
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\out\web.config
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\out\appsettings.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\out\DMart.deps.json
+C:\Users\HI\Desktop\repos\DMart\bin\Debug\net8.0\out\DMart.runtimeconfig.json

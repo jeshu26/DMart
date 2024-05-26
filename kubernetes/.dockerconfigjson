@@ -1,0 +1,10 @@
+{
+    "auths": {
+      "retailstore2.azurecr.io": {
+        "username": "retailstore2",
+        "password": "jX6L2ri4tdCdnflsNI+ece7RW6FnizrWp2vjQlkcWs+ACRADdYIF",
+        "email": "your-email@example.com"
+      }
+    }
+  }
+  
