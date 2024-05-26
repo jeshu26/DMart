@@ -24,5 +24,8 @@ COPY --from=build /app/out .
 # Expose port 80
 EXPOSE 80
 
+# Set the ASP.NET Core URL environment variable to listen on port 80
+ENV ASPNETCORE_URLS=http://+:80
+
 # Specify the entry point for the application
 ENTRYPOINT ["dotnet", "DMart.dll"]
